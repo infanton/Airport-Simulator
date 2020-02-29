@@ -1,10 +1,3 @@
-/*
-    Author:     Niko Infanto
-    Class:      CIS 3180
-    Date:       04.09.2017
- */
-package CS3180_Project03;
-
 /**
  * Driver class demonstrating a First in First out Airport Queue.
  *

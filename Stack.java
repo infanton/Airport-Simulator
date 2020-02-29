@@ -1,11 +1,4 @@
-/*
-    Author:     Niko Infanto
-    Class:      CIS 3180
-    Date:       04.09.2017
-    Reference:  http://stackoverflow.com/questions/69192/how-to-implement-a-queue-using-two-stacks , adt.scm 
- */
-
-package CS3180_Project03;
+/* Referenced:  http://stackoverflow.com/questions/69192/how-to-implement-a-queue-using-two-stacks */
 
 /**
  *

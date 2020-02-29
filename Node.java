@@ -1,12 +1,3 @@
-/*
-    Author:     Niko Infanto
-    Class:      CIS 3180
-    Date:       04.09.2017
-    Reference:  http://stackoverflow.com/questions/69192/how-to-implement-a-queue-using-two-stacks
- */
-
-package CS3180_Project03;
-
 /**
  * The Node class represents a single node in the Stack and Queue class. 
  * 

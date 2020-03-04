@@ -1,4 +1,4 @@
-## Airport-Simulator
+## Java-Air-Traffic-Control
 
 Java-Air-Traffic-Control is a Java implementation of Queue using (2) Stacks to simulate an air traffic control.
 
